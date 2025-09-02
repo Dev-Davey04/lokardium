@@ -1,0 +1,13 @@
+name = "Lokardium"
+author = "Byte Darver"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "23ee9edcc1ebdbccf714bc379bd24062b895d04f967b0582e4869edfd18d0fea"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
